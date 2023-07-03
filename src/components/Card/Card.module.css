@@ -39,7 +39,7 @@
 
 .like {
   border: none;
-  background: url('../images/card__like.svg') center no-repeat;
+  background: url('../../images/card__like.svg') center no-repeat;
   background-size: 100%;
   min-width: 22px;
   min-height: 19px;
