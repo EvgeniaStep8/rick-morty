@@ -6,7 +6,6 @@ import { useGetCharactersQuery } from './Cards.generated';
 const Cards: FC = () => {
 	const { data, loading, error } = useGetCharactersQuery();
 
-	console.log(data);
 	return (
 		<>
 		  {loading && <p>Loading...</p>}

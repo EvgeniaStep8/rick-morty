@@ -37,12 +37,8 @@
   overflow: hidden;
 }
 
-.like {
-  border: none;
-  background: url('../../images/card__like.svg') center no-repeat;
-  background-size: 100%;
-  min-width: 22px;
-  min-height: 19px;
-  margin-bottom: 1px;
+.arrow {
+  width: 20px;
+  height: 20px;
   cursor: pointer;
 }

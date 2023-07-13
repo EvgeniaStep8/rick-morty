@@ -1,0 +1,28 @@
+.Character {
+	background-color: #000;
+	padding: 50px 100px;
+	height: 100vh;
+}
+
+@media screen and (max-width: 767.98px) {
+  .App {
+    padding: 50px;
+  }
+}
+
+@media screen and (max-width: 424.98px) {
+  .App {
+    padding: 25px;
+  }
+}
+
+.info {
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 32px;
+	color: #fff;
+}
+
+.image {
+	width: 400px;
+}
