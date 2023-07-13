@@ -17,7 +17,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='rick-morty-React-TS-ApolloClient-/'>
       <ApolloProvider client={client} >
         <App />
       </ApolloProvider>

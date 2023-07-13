@@ -2,6 +2,7 @@
   "name": "rick-morty",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://evgeniastep8.github.io/rick-morty-React-TS-ApolloClient-/",
   "dependencies": {
     "@apollo/client": "^3.7.16",
     "@testing-library/jest-dom": "^5.16.5",
@@ -26,7 +27,7 @@
     "eject": "react-scripts eject",
     "generate": "graphql-codegen --config codegen.yaml",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
 
   },
   "eslintConfig": {
