@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/rick-morty-React-TS-ApolloClient-/static/css/main.b54b94c9.css",
-    "main.js": "/rick-morty-React-TS-ApolloClient-/static/js/main.a8655193.js",
+    "main.js": "/rick-morty-React-TS-ApolloClient-/static/js/main.c5b23ce6.js",
     "static/js/787.e75d53e9.chunk.js": "/rick-morty-React-TS-ApolloClient-/static/js/787.e75d53e9.chunk.js",
     "static/media/RickAndMortyBackground.jpg": "/rick-morty-React-TS-ApolloClient-/static/media/RickAndMortyBackground.6a2b3ccc3048dd6f4ef7.jpg",
     "static/media/back.svg": "/rick-morty-React-TS-ApolloClient-/static/media/back.988a65d45ac84ac88921.svg",
     "index.html": "/rick-morty-React-TS-ApolloClient-/index.html",
     "main.b54b94c9.css.map": "/rick-morty-React-TS-ApolloClient-/static/css/main.b54b94c9.css.map",
-    "main.a8655193.js.map": "/rick-morty-React-TS-ApolloClient-/static/js/main.a8655193.js.map",
+    "main.c5b23ce6.js.map": "/rick-morty-React-TS-ApolloClient-/static/js/main.c5b23ce6.js.map",
     "787.e75d53e9.chunk.js.map": "/rick-morty-React-TS-ApolloClient-/static/js/787.e75d53e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b54b94c9.css",
-    "static/js/main.a8655193.js"
+    "static/js/main.c5b23ce6.js"
   ]
 }
